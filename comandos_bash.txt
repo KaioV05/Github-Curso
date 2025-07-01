@@ -1,0 +1,5 @@
+ls -> Lista Arquivos
+cd -> move entre diretórios
+pwd -> mostra o camininho
+cat -> remove arquivo
+git commit -> comita arquivos
