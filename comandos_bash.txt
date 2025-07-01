@@ -3,3 +3,5 @@ cd -> move entre diretórios
 pwd -> mostra o camininho
 cat -> remove arquivo
 git commit -> comita arquivos
+rm - Remove Arquivos
+rm -rf --> Remove de forma drástica todos os arquivos ali existentes
